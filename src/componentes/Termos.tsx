@@ -5,7 +5,7 @@ export function Termos () {
         <div>
 
             <div className="p-4 bg-zinc-100 hover:text-blue-900">
-                <a href="/"> 
+                <a href="https://buscardados.com.br/"> 
                     <SkipBack size={32} />
                 </a> 
             </div>
