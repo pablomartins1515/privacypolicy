@@ -17,13 +17,18 @@ export function Termos () {
                    Aviso de Privacidade do aplicativo "PERSONAL PERFEITO"
                 </h1>
 
-                <h3 className="flex text-left p-8">
+                <h2 className="flex text-left p-8">
                     1. Quais informações estão presentes neste documento?
+                </h2>
+                <h3>
                     Neste Termo de Uso, o usuário do serviço Aplicativo do PERSONAL PERFEITO, encontrará informações sobre: o funcionamento do serviço e as regras aplicáveis a ele; o arcabouço legal relacionado à prestação do serviço; as responsabilidades do usuário ao utilizar o serviço; as responsabilidades da administração pública ao prover o serviço; informações para contato, caso exista alguma dúvida ou seja necessário atualizar informações; e o foro responsável por eventuais reclamações caso questões deste Termo de Uso tenham sido violadas.
-                    </br>
+                </h3>
+                <h2 className="flex text-left p-8">
                     2. Aceitação do Termo de Uso e Política de Privacidade 
+                </h2>
+                <h3>
                     Ao utilizar os serviços, o usuário confirma que leu e compreendeu os Termos e Políticas aplicáveis ao serviço Aplicativo PERSONAL PERFEITO e concorda em ficar vinculado a eles.
-                    </br>
+                </h3>
                     3. Definições
                     Para melhor compreensão deste documento, neste Termo de Uso e Política de Privacidade, consideram-se:
                     Dado pessoal: informação relacionada a pessoa natural identificada ou identificável.
@@ -36,7 +41,7 @@ export function Termos () {
                     Sítios (sites) e aplicativos: sítios e aplicativos por meio dos quais o usuário acessa os serviços e conteúdos disponibilizados.
                     Terceiro: Pessoa ou entidade que não participa diretamente em um contrato, em um ato jurídico ou em um negócio, ou que, para além das partes envolvidas, pode ter interesse num processo jurídico.
                     Usuários (ou "Usuário", quando individualmente considerado): todas as pessoas naturais que utilizarem o serviço Aplicativo e site do PERSONAL PERFEITO.
-                     </br>
+                     </h3>
                     4. Descrição do serviço
                      </br>
 
